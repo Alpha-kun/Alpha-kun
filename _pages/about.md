@@ -11,4 +11,4 @@ Hi! I am a first-year PhD student at [Operations Research Center (ORC)](https://
 
 Prior to MIT, I earned my Bachelor's degree in Operations Research from Rice University.
 
-My research interests lie broadly in optimization algorithms - particularly those for training machine learning models.
+My research interests lie broadly in optimization algorithms - particularly those for training machine learning models. In the past, I have also worked in dynamical systems and computational fluid dynamics.
