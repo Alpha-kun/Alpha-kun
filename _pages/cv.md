@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please see [here](https://Alpha-kun.github.io/files/Resume_RLiu_MIT.pdf.pdf) for the most recent version of my CV.
+My most recent version of CV can be viewed [here](https://Alpha-kun.github.io/files/Resume_RLiu_MIT.pdf)
